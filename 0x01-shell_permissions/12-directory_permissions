@@ -1,2 +1,2 @@
 #!/bin/bash
-chown school hello
+mkdir -m 777 my_dir
